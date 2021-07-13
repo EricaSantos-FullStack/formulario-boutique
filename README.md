@@ -1,2 +1,3 @@
-# formulario-boutique
- Formulario integrado com Banco de Dados (PHP, MySQL)
+#Formulario Boutique 🌺
+
+Formulário lindo demais feito com HTML e CSS usando PHP para fazer a integração com o Banco de Dados - My SQL.
